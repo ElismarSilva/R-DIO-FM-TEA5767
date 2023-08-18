@@ -1,5 +1,7 @@
 # Rádio FM com TEA5767 e Arduino
 
+Video[https://youtube.com/shorts/00gAzgTPq6Q?feature=share)
+
 Este é um projeto de rádio FM utilizando o módulo TEA5767 e um Arduino. O projeto permite sintonizar estações de rádio FM em diferentes frequências.
 
 ## Visão Geral
